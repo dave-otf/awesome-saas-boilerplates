@@ -158,7 +158,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - All-In-One - https://allinonedev.com
 - LaunchYourApp - https://launchyourapp.dev/
 - NativeExpress - https://native.express
-- OTF Kit - https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-xcomptek-saas
+- OTF Kit - https://otf-kit.dev/templates/fitness-kit?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-xcomptek-fitness
 - React Native Boilerplate - https://reactnativeboilerplate.com
 - ShipNative - https://shipnative.app
 - SupaWrapper -  https://supawrapper.com
